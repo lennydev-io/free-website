@@ -1,3 +1,4 @@
+// LIBS
 import { Main } from '../lib/styles';
 // COMPONENTS
 import Layout from '../components/layout';
