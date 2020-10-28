@@ -1,6 +1,6 @@
 const MainData = {
   head: {
-    title: 'OZ Photo | Professional photography services',
+    title: 'Lenny Dev | Leader in Software Development',
     favicon: 'favicon.png',
   },
   mainLogo: {
@@ -12,8 +12,8 @@ const MainData = {
     alt: 'Main Photo',
   },
   CTA: {
-    url: 'https://www.instagram.com/o.alvarezphoto/',
-    text: 'Gallery'
+    url: 'https://lennydev.io/contact',
+    text: 'RECEIVE A FREE CALL NOW'
   },
   footer: {
     href: 'https://lennydev.io/',
