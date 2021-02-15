@@ -1,6 +1,6 @@
 const MainData = {
   head: {
-    title: 'Lenny Dev | Leader in Software Development',
+    title: 'Bucephalus AI',
     favicon: 'favicon.png',
   },
   mainLogo: {
